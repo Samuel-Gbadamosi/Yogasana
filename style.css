@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbo{
+    background-image: url('./jumbotron.jpg');
+    height: 750px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+.surelist{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+span.carousel-control-prev-icon {
+    background-color: #f4a111;
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+    font-size: 5px;
+}
+
+span.carousel-control-next-icon{
+
+    background-color: #f4a111;
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+    font-size: 5px;
+
+}
+
+.myh1{
+    font-size: 120px;
+    font-weight: 800;
+    padding-left: 120px;
+}
+
+.james h5{
+    font-size: 30px;
+}
+
+.sectone{
+    /* height: 400px; */
+    background-color: white ;
+}
+
+.grade{
+
+    color: #121212;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 2;
+}
+
+.hatha h3 {
+    font-weight: 900;
+    color: #3e3e3e;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.hatha span {
+    color: #b7b6b6;
+    font-weight: 700;
+    font-size: 15px;
+
+}
+
+.secttwo{
+    /* height: 300px; */
+    margin-top: 10px;
+    color: white;
+    /* background-color: pink; */
+}
+
+.shade{
+    height: 530px;
+    background-color: #051A35;
+    padding: 106px 73px;
+
+}
+
+.shade h2{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+
+.girlcheese{
+    height: 530px;
+    position: relative;
+    right: 24px;
+}
+
+.lorem{
+    /* height: 200px; */
+    /* background-color: red; */
+    /* border: 1px solid black; */
+}
+
+.sectfive{
+    background-color: white;
+    /* height: 200px; */
+}
+
+.sectfive h2{
+    color: black;
+    font-weight:800;
+    font-size: 40px;
+}
+
+
+.sectthree{
+        /* height: 300px;  */
+       margin-top: 10px;
+       color: white;
+        /* background-color: pink; */
+
+}
+
+
+.asiancheese{
+    height: 530px;
+    position: relative;
+    right: 24px;
+}
+
+
+.brescia h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+.sett{
+    /* height: 300px; */
+    background-color: white;
+}
+
+.sett h2{
+    color:#151515;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.sett strong{
+    color: #F4A110;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.sett h3{
+    font-size: 70px;
+    font-weight: 700;
+    color: #151515;
+}
+
+ .sett .jr{
+    background-color: purple;
+    height: 10px;
+    width: 25%;
+    border-radius: 20px;
+    margin-left: 100px;
+} 
+
+.break li{
+    color: #151515;
+    font-weight: 700;
+}
+
+.start{
+    background-color: #f4a111;
+    height: 40px;
+    width: 150px;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+}
+
+.start2{
+    background-color: #252525;
+    height: 40px;
+    width: 150px;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+}
+
+.plea{
+    /* height: 200px; */
+    background-color: white;
+}
+
+.plea h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.contact{
+    height: 700px;
+    background-color: #051A35;
+    padding-top: 50px;
+}
+
+.ct{
+    height: 350px;
+    background-color:white;
+
+}
+
+footer{
+    height:320px;
+    background: #051A35;
+    color: white;
+}
+.jessy h5{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.pery li {
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    width: 30%;
+    color: black;
+    border-radius:50px;
+    background-color: white;
+    margin-left: 2px;
+}
